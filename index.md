@@ -1,4 +1,4 @@
-# Introduction
+# Lesson 1 - Introduction
 * What we’ll be doing in the class through the whole semester
 * Show the end product	
   * App with working sensors.
